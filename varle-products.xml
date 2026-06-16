@@ -11099,7 +11099,7 @@
       <description><![CDATA[<p>Apykaklės dydis: 40 cm * 1,8 cm</p><p>Išorinis širdies skersmuo: 3,5 cm x 4,5 cm</p><p>Metalinės grandinėlės ilgis: 110 cm</p>]]></description>
       <price>13.90</price>
       <old_price>24.95</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/706/492/91/70649291/apykakle-su-grandinele-5ea74_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/706/492/91/70649291/apykakle-su-grandinele-452b5-kaina_reference.jpg]]></image>
@@ -11108,7 +11108,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500557891</barcode>
-      <quantity>1</quantity>
+      <quantity>100</quantity>
       <weight>0.06</weight>
       <attributes>
         <attribute title="Spalva">Juoda</attribute>
@@ -23448,7 +23448,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>8713221828583</barcode>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <weight>0.33</weight>
       <attributes>
         <attribute title="Spalva">Sidabrinė</attribute>
@@ -40899,7 +40899,7 @@
       </categories>
       <title><![CDATA[Trijų dalių apatinio trikotažo komplektas Flower Romance]]></title>
       <description><![CDATA[<p>Medžiaga: poliesteris<br />Spalva: rožinė<br />Jei norite jaustis ypač moteriškai ir viliojanti, šis apatinio trikotažo rinkinys yra geriausias pasirinkimas! Tai pavers jus tokia švelnia, žavia ir nenugalima, kad jūsų partnerį tiesiog sužavės jūsų grožis!</p>]]></description>
-      <price>20.79</price>
+      <price>27.90</price>
       <old_price>49.80</old_price>
       <delivery_text>20 d.d.</delivery_text>
       <images>
@@ -40920,13 +40920,13 @@
           <title>M</title>
           <quantity>100</quantity>
           <barcode>5410500516010</barcode>
-          <price>7.11</price>
+          <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
           <quantity>100</quantity>
           <barcode>5410500516003</barcode>
-          <price>7.11</price>
+          <price>0.00</price>
         </variant>
       </variants>
       <weight>0.1</weight>
@@ -41872,8 +41872,8 @@
       </categories>
       <title><![CDATA[Seksualūs nėriniuoti stringai su perlais]]></title>
       <description><![CDATA[<p>Medžiaga: nailonas<br />Spalva: juoda<br />Šios nėriniuotos tamprės yra labai mielos ir romantiškos, bet kartu seksualios ir gundančios! Pridėkite jas prie savo įvaizdžio ir partneris negalės atsispirti jūsų žavesiui!</p>]]></description>
-      <price>12.99</price>
-      <old_price>15.59</old_price>
+      <price>20.99</price>
+      <old_price>25.08</old_price>
       <delivery_text>2 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/761/615/62/76161562/seksualus-neriniuoti-stringai-su-perlais-pretty-romance-46747-kaina_reference.jpg]]></image>
@@ -51540,7 +51540,7 @@
       <description><![CDATA[<p>Aukštos kokybės sintetinis perukas. Perukai moterims daro jus gražesnes, išskirtinesnes, nes tai puiki vertė, puikus stilius ir puikus dizainas.</p><p>Patobulintas peruko dangtelis. 100% kvėpuojantis rožinis vidinis tinklinis peruko dangtelis yra lengvas. Peruko šone yra du reguliavimo dirželiai, kuriuos galima reguliuoti, ilgis 20-22", kad tiktų skirtingiems galvos dydžiams, Peruko dangtelyje yra unikalus importuotas tinklelis, kuris yra kvėpuojantis ir patogus.</p><p>Priedai: Yra 1 peruko dangtelis.</p><p>Perukai tinka bet kokiai progai. Kalėdų vakarėliams, teminėms vestuvėms, Helovinui, cosplay, mergvakariams, koncertams, kasdieniam naudojimui ir kt.</p>]]></description>
       <price>20.90</price>
       <old_price>35.95</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/712/248/96/71224896/perukas-premium-wig-geltonas-247e9_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/712/248/96/71224896/perukas-premium-wig-geltonas-2f7e7-kaina_reference.jpg]]></image>
@@ -51551,7 +51551,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500555644</barcode>
-      <quantity>1</quantity>
+      <quantity>100</quantity>
       <weight>0.23</weight>
       <attributes>
         <attribute title="Spalva">Balta</attribute>
@@ -70861,7 +70861,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500344637</barcode>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <weight>1.0</weight>
     </product>
     <product>
@@ -78386,7 +78386,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500509722</barcode>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <weight>0.19</weight>
       <attributes>
         <attribute title="Tipas">Movos</attribute>
@@ -84714,7 +84714,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500529829</barcode>
-      <quantity>10</quantity>
+      <quantity>8</quantity>
       <weight>10.0</weight>
       <attributes>
         <attribute title="Tipas">Lėlės vyrams</attribute>
@@ -90642,7 +90642,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500340059</barcode>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <weight>0.47</weight>
     </product>
     <product>
@@ -98213,7 +98213,7 @@
       <description><![CDATA[<p>Daugiafunkcinis. Šis išmanusis dinozauras gali judėti pirmyn/atgal, suktis į kairę/dešinę, gali mesti uodegą ir pasukti galvą, gali šaudyti kulkomis su siurbtukais iš už nugaros, todėl galėsite patirti kitokią dinozaurų patirtį. <br />Išmanioji programavimo funkcija. Šis išmanusis dinozauras turi unikalią programavimo atminties funkciją, kurią įjungus galima valdyti dinozaurą, kad jis atliktų atminties veiksmą, o tada įjungus mygtuką atkurti ankstesnį veiksmą. <br />Lengva naudoti. Visi šio išmaniojo dinozauro žaislo veiksmai turi išsamią įvestį nuotolinio valdymo pulte, tereikia paspausti atitinkamą mygtuką, kad būtų rodoma funkcija, paprastas ir patogus valdymas, lengva suaktyvinti. <br />Įkraunama baterija. Šiame žaisle yra 3,7 V 600 mAh įkraunama ličio baterija, baterija įkraunama 2-3 valandas, naudojama apie 25 minutes, kad būtų išspręsta nepakankamos baterijos energijos problema, todėl galite mėgautis žaidimu. <br />Purškimo ir paleidimo funkcija. Prieš purškiant reikia įpilti vandens į dinozauro galvą ir paspausti purškimo mygtuką ant nuotolinio valdymo pulto, kad iš burnos pasipiltų rūkas, ir įkrauti raketas ant dinozauro nugaros, tada paspausti paleidimo mygtuką ant nuotolinio valdymo pulto viršaus.</p>]]></description>
       <price>64.99</price>
       <old_price>103.08</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/843/911/20/84391120/dinozauru-robotas-vaikams-harmony-hills-aff73-e935a_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/843/911/20/84391120/dinozauru-robotas-vaikams-harmony-hills-aff73-bd956-kaina_reference.jpg]]></image>
@@ -98224,7 +98224,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495632085</barcode>
-      <quantity>1</quantity>
+      <quantity>100</quantity>
       <weight>3.0</weight>
     </product>
     <product>
@@ -102175,7 +102175,7 @@
       <description><![CDATA[<p>Daugiafunkcinė kelioninė pagalvė. Ši pagalvė sukurta taip, kad užtikrintų maksimalų komfortą kelyje, ypač ilgose kelionėse. Ją galima naudoti kaip kaklo atraminę pagalvę, kuri padeda sumažinti įtampą ir išvengti diskomforto ilgai sėdint. Jei reikia, pagalvę galima užpildyti asmeniniais daiktais, pavyzdžiui, drabužiais, kad padidėtų jos tūris ir pagerėtų atrama.<br /><br />Taupo vietą. Pagalvėlė lengvai sulankstoma, todėl ją patogu laikyti ir transportuoti. Dėl kompaktiško dydžio ją lengva pasiimti su savimi į rankinę ar kuprinę.<br /><br />Elastingas aksomas. Pagaminta iš aukštos kokybės juodos spalvos elastingo aksomo medžiagos, pagalvė ne tik maloni liesti, bet ir pasižymi puikiu elastingumu, todėl suteikia patikimą atramą. Užpildžius pagalvę daiktais ne tik padidėja komfortas, bet ir jūsų daiktai apsaugomi nuo pažeidimų, įbrėžimų ar purvo.<br /><br />Daugiafunkcinis naudojimas. Pagalvė puikiai tinka ne tik kelionėms, bet ir žygiams, ilgoms kelionėms automobiliu, autobusu ar traukiniu, taip pat poilsiui lėktuve. Tai universalus sprendimas tiems, kurie vertina patogumą ir praktiškumą bet kokioje situacijoje.</p>]]></description>
       <price>17.99</price>
       <old_price>21.59</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/817/178/65/81717865/kelionine-pagalvele-black-f9cdc_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/817/178/65/81717865/kelionine-pagalvele-black-682df-kaina_reference.jpg]]></image>
@@ -102187,7 +102187,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495637615</barcode>
-      <quantity>1</quantity>
+      <quantity>100</quantity>
       <weight>0.66</weight>
     </product>
     <product>
@@ -104248,7 +104248,7 @@
       <description><![CDATA[<p>Patogus ir nešiojamas: Krepšio dydis yra 45 cm x 35 cm x 33 cm, jis tinka augintiniams iki 9 kg (prieš pirkdami išmatuokite savo augintinio dydį ir svorį). Lengvas ir praktiškas krepšys leidžia pasiimti savo augintinį bet kur ir užtikrina, kad jums abiem būtų patogu ir malonu keliauti.<br /><br />Puikus dizainas: šis augintinio krepšys pagamintas iš patvaraus poliesterio ir išlaiko formą dėl atraminės plokštės. Vežimėlyje iš trijų pusių yra orui pralaidus tinklelis, užtikrinantis optimalią oro cirkuliaciją. Išorėje yra nedidelė kišenėlė smulkiems daiktams laikyti.<br /><br />Lengva valyti: tamsios spalvos nešioklė atspari purvui. Paviršiaus dėmes galima lengvai pašalinti minkštu šepetėliu. Minkšta pagalvėlė krepšelio viduje yra išimama, ją galima skalbti rankomis arba skalbimo mašinoje, kad būtų lengva prižiūrėti.<br /><br />Daugiafunkcinis: dėl reguliuojamo diržo nešioklę galima naudoti kaip krepšį arba krepšį per petį. Paminkštintas rankenas galima išdėstyti taip, kad jas būtų patogu laikyti. Puikiai tinka keliauti automobiliu, traukiniu, lėktuvu ir pan. Krepšį galima naudoti ne tik gyvūnams augintiniams, bet ir patogiai nešioti asmeninius daiktus, pavyzdžiui, drabužius ar batus.<br /><br />Kvėpuojantis ir saugus: vėdinama konstrukcija leidžia augintiniui laisvai kvėpuoti ir stebėti aplinką, o tai padeda sumažinti nerimą ir padaryti keliones patogesnes. Nesvarbu, kur ir kada naudosite šią nešioklę, ji užtikrins jūsų augintinio saugumą ir patogumą.</p>]]></description>
       <price>41.16</price>
       <old_price>75.11</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/817/109/25/81710925/augintiniu-transportavimo-krepsys-9281f_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/817/109/25/81710925/augintiniu-transportavimo-krepsys-e1850-kaina_reference.jpg]]></image>
@@ -104260,7 +104260,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495666981</barcode>
-      <quantity>1</quantity>
+      <quantity>100</quantity>
       <weight>1.7</weight>
     </product>
     <product>
@@ -110487,7 +110487,7 @@
       <description><![CDATA[<p>Apibūdinimas:</p><p> </p><ul><li>Silikoninė medžiaga, saugi ir patikima naudoti</li><li>10 rūšių stiprios vibracijos režimų</li><li>Maitinimo šaltinis: įmontuota baterija, įkraunama USB</li><li>Triukšmo lygis: <50db</li><li>100% atsparus vandeniui</li></ul><p>Kaip naudoti:</p><p> </p><p>Norėdami įjungti įrenginį, trumpai paspauskite maitinimo mygtuką, kad pakeistumėte siurbimo režimą, tada ilgai paspauskite maitinimo mygtuką, kad išjungtumėte siurbimą.</p><p>Ilgai paspauskite bangos mygtuką, kad įjungtumėte vibraciją, trumpai paspauskite bangos mygtuką, kad pakeistumėte vibravimo režimą, tada ilgai paspauskite bangos mygtuką, kad išjungtumėte vibraciją.</p><p> </p><p>Į paketą įeina:</p><p>1x vibratorius</p><p>1x USB įkrovimo laidas</p>]]></description>
       <price>19.69</price>
       <old_price>23.63</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/712/245/06/71224506/klitorio-ir-g-tasko-stimuliatoriaus-siurbimo-vibratoriaus-187a2_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/712/245/06/71224506/klitorio-ir-g-tasko-stimuliatoriaus-siurbimo-vibratoriaus-77e7d-kaina_reference.jpg]]></image>
@@ -110499,7 +110499,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500556399</barcode>
-      <quantity>1</quantity>
+      <quantity>100</quantity>
       <weight>0.18</weight>
       <attributes>
         <attribute title="Ilgis (cm)">14.0</attribute>
@@ -125054,7 +125054,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500341322</barcode>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <weight>0.57</weight>
     </product>
     <product>
@@ -127013,7 +127013,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495632344</barcode>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <weight>0.2</weight>
     </product>
     <product>
