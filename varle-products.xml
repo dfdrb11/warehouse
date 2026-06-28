@@ -26815,7 +26815,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495632276</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>11.3</weight>
       <attributes>
         <attribute title="Elementų tipas">Nėra</attribute>
@@ -29603,7 +29603,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500546017</barcode>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <weight>0.34</weight>
       <attributes>
         <attribute title="Spalva">Violetinė</attribute>
@@ -45061,7 +45061,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500549483</barcode>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <weight>0.3</weight>
       <attributes>
         <attribute title="Spalva">Juoda</attribute>
@@ -119236,8 +119236,8 @@
       </categories>
       <title><![CDATA[Penio siurblys Bathmate X20, mėlynas]]></title>
       <description><![CDATA[<p>Varpos pompos naudojamos erekcijai didinti tiek ilgiu, tiek aplinkui. Jis absorbuoja daugiau kraujo nei pats organizmas. Dauguma dirba siurbdami orą iš cilindro, kurio viduje yra varpa. Šis įrenginys gali veikti panašiai, bet suprojektuotas dirbti su vandeniu! Vanduo padeda tolygiai paskirstyti vakuumo jėgą, todėl žaislas yra patogesnis nei paprastos pompos.<br />Mums patinka ši puiki Pompa gamybos kokybė. Ji turi minkštą angą, prispaustą prie gėdos, be nepatogios žarnos ir rankinio siurblio; norėdami naudoti pompą, prispauskite cilindrą prie kūno, o vanduo ištekės iš kitos pusės!<br />Išorinis skersmuo 9 cm<br />Bendras ilgis 26 cm</p>]]></description>
-      <price>31.07</price>
-      <old_price>34.17</old_price>
+      <price>51.07</price>
+      <old_price>56.17</old_price>
       <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/791/556/43/79155643/penio-siurblys-bathmate-x20-melynas-05480_reference.jpg]]></image>
@@ -144932,7 +144932,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495669685</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>1.0</weight>
       <attributes>
         <attribute title="Spalva">Juoda</attribute>
