@@ -1497,7 +1497,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500512937</barcode>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <weight>0.24</weight>
       <attributes>
         <attribute title="CE ženklinimas">Taip</attribute>
@@ -2128,7 +2128,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500550434</barcode>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <weight>0.1</weight>
       <attributes>
         <attribute title="CE ženklinimas">Taip</attribute>
@@ -2701,7 +2701,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500513699</barcode>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <weight>0.2</weight>
       <attributes>
         <attribute title="CE ženklinimas">Taip</attribute>
@@ -16988,7 +16988,7 @@
       <description><![CDATA[<p>Kaukė pagaminta iš aukštos kokybės PU odos, minkšta ir elastinga, lygi ir patogi, nekenkia kūnui, naudokite ją drąsiai.<br /><br />Burnos kaukė gali būti nuimama, nenusiimant galvos kaukės, patogi ir nesudėtinga. Abiejose kaukės pusėse yra ventiliacijos angos, todėl užsidėję galėsite laisvai kvėpuoti.<br /><br />Ši viso veido šunų kaukė puikiai tinka makiažo vakarėliui, naktiniam klubui, Cosplay kostiumų rinkiniui, karnavalui, kaukių žaidimui, vaidmenų žaidimui, karnavalui, Helovinui, Kalėdoms ir pan., taip pat gera dovana jūsų draugams ir šeimai.<br /><br />Šis neopreno šunų gobtuvas pagamintas iš odos, todėl geriau jo nelankstyti, kad nesusiraukšlėtų. Nuvalykite drėgnu rankšluosčiu arba drėgnu skudurėliu.</p>]]></description>
       <price>23.49</price>
       <old_price>28.19</old_price>
-      <delivery_text>20 d.d.</delivery_text>
+      <delivery_text>2 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/722/636/76/72263676/suniuko-kauke-puppy-hood-juodavioletine-e520f_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/722/636/76/72263676/suniuko-kauke-puppy-hood-juodavioletine-d451b-kaina_reference.jpg]]></image>
@@ -16996,7 +16996,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500554555</barcode>
-      <quantity>100</quantity>
+      <quantity>1</quantity>
       <weight>0.35</weight>
       <attributes>
         <attribute title="Spalva">Violetinė</attribute>
@@ -21809,7 +21809,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500552230</barcode>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <weight>0.05</weight>
       <attributes>
         <attribute title="Spalva">Sidabrinė</attribute>
@@ -27963,7 +27963,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495673187</barcode>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <weight>1.4</weight>
       <attributes>
         <attribute title="Tipas">Automatinės šėryklos katėms</attribute>
@@ -28029,8 +28029,8 @@
       </categories>
       <title><![CDATA[Automatinė šėrykla augintiniams]]></title>
       <description><![CDATA[<p>Optimalus pasirinkimas: jei jūsų katė sužinojo, kur laikote skanėstus ir maistą, su sauso maisto dozatoriumi jūsų mažasis vagišius negalės savaime suvalgyti kačių maisto. Ši dviguba šėryklėlė yra visiškai automatinė ir maistą išduoda pagal grafiką, užtikrindama subalansuotą ir sveiką jūsų augintinių mitybą.<br /><br />Skirtas dviem katėms: mūsų šėrykla yra dvigubos konstrukcijos su maisto dalytuvu, dviem dubenėliais ir nerūdijančio plieno stoveliais. Jis tuo pačiu metu leidžia maistą į abu dubenėlius, todėl sutaupysite laiko maistui ruošti ir skatinsite laikytis reguliaraus šėrimo grafiko.<br /><br />Vienodos ir tikslios porcijos: ši šėryklėlė automatiškai dozuoja vienodą maisto kiekį, kad abi katės gautų vienodas porcijas. Maitintuvo talpa - 6 litrai, galima nustatyti iki 4 maitinimų per dieną, o kiekvienam maitinimui galima skirti 40 porcijų (1 porcija - 7,48 g).<br /><br />Išmaniosios funkcijos: Kačių šėrimo stotelė turi 10 sekundžių įrašymo funkciją ir laikmatį, kad galėtumėte planuoti reguliarų savo pūkuotų draugų maitinimą. Taip pat yra atminties funkcija, kad dingus elektrai neprarastumėte šėrimo grafiko.<br /><br />Saugus ir patikimas šėrimo įrenginys: šis automatinis maisto daviklis yra apsaugotas nuo naminių gyvūnėlių: viršutinis dangtelis užsidaro, o ekranas užsirakina, kad jūsų augintiniai negautų maisto anksčiau nustatyto laiko. Be to, maitintuve įrengta nuo užsikimšimo apsauganti sistema, užtikrinanti sklandų pašaro tiekimą.</p>]]></description>
-      <price>69.90</price>
-      <old_price>83.88</old_price>
+      <price>89.90</price>
+      <old_price>103.88</old_price>
       <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/809/620/75/80962075/automatine-serykla-augintiniams-e4ceb_reference.jpg]]></image>
@@ -60821,7 +60821,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
           <barcode>5410500535691</barcode>
           <price>0.00</price>
         </variant>
@@ -63902,7 +63902,7 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>2</quantity>
+          <quantity>3</quantity>
           <barcode>5410500538241</barcode>
           <price>0.00</price>
         </variant>
@@ -68070,7 +68070,7 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>5</quantity>
+          <quantity>6</quantity>
           <barcode>5410500538128</barcode>
           <price>0.00</price>
         </variant>
@@ -88464,7 +88464,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500509227</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>1.0</weight>
       <attributes>
         <attribute title="Tipas">Masturbatoriai</attribute>
@@ -91286,7 +91286,7 @@
       <description><![CDATA[<p>Ilgis, plotis, aukštis: 15 * 18 * 13,5 cm<br />Svoris: 3 kg<br />Medžiaga: silikonas</p>]]></description>
       <price>83.90</price>
       <old_price>99.90</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/778/199/24/77819924/realistiskas-leles-masturbatorius-5c044_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/778/199/24/77819924/realistiskas-leles-masturbatorius-b9f34-kaina_reference.jpg]]></image>
@@ -91296,7 +91296,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500529942</barcode>
-      <quantity>1</quantity>
+      <quantity>100</quantity>
       <weight>3.0</weight>
       <attributes>
         <attribute title="Tipas">Lėlės vyrams</attribute>
@@ -106430,7 +106430,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495674733</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.19</weight>
       <attributes>
         <attribute title="Rekomend. amžius nuo (m.)">3</attribute>
@@ -107281,7 +107281,7 @@
       </categories>
       <title><![CDATA[Dinozaurų robotas vaikams]]></title>
       <description><![CDATA[<p>Daugiafunkcinis. Šis išmanusis dinozauras gali judėti pirmyn/atgal, suktis į kairę/dešinę, gali mesti uodegą ir pasukti galvą, gali šaudyti kulkomis su siurbtukais iš už nugaros, todėl galėsite patirti kitokią dinozaurų patirtį. <br />Išmanioji programavimo funkcija. Šis išmanusis dinozauras turi unikalią programavimo atminties funkciją, kurią įjungus galima valdyti dinozaurą, kad jis atliktų atminties veiksmą, o tada įjungus mygtuką atkurti ankstesnį veiksmą. <br />Lengva naudoti. Visi šio išmaniojo dinozauro žaislo veiksmai turi išsamią įvestį nuotolinio valdymo pulte, tereikia paspausti atitinkamą mygtuką, kad būtų rodoma funkcija, paprastas ir patogus valdymas, lengva suaktyvinti. <br />Įkraunama baterija. Šiame žaisle yra 3,7 V 600 mAh įkraunama ličio baterija, baterija įkraunama 2-3 valandas, naudojama apie 25 minutes, kad būtų išspręsta nepakankamos baterijos energijos problema, todėl galite mėgautis žaidimu. <br />Purškimo ir paleidimo funkcija. Prieš purškiant reikia įpilti vandens į dinozauro galvą ir paspausti purškimo mygtuką ant nuotolinio valdymo pulto, kad iš burnos pasipiltų rūkas, ir įkrauti raketas ant dinozauro nugaros, tada paspausti paleidimo mygtuką ant nuotolinio valdymo pulto viršaus.</p>]]></description>
-      <price>64.99</price>
+      <price>77.99</price>
       <old_price>103.08</old_price>
       <delivery_text>20 d.d.</delivery_text>
       <images>
@@ -115242,8 +115242,8 @@
       </categories>
       <title><![CDATA[Augintinių transportavimo kuprinė]]></title>
       <description><![CDATA[<p>Mūsų kuprinėje „2 viename“ yra dvipusis kilimėlis ir jauki flanelinė antklodė. Permatomas langelis ir ištraukiamas gulėjimo gultas sukuria patogią ir erdvią aplinką žaidimams ir poilsiui.<br /><br />Kuprinėje yra 9 didelės ventiliacijos angos šonuose ir priekyje bei išskleidžiamas įbrėžimams atsparus tinklelis, užtikrinantis maksimalią ventiliaciją ir gryną orą - puikiai tinka nuotykiams lauke.<br /><br />Kuprinė pagaminta iš aukštos kokybės, augintiniams saugių medžiagų, yra lengva, funkcionali ir lengvai valoma. Taip pat yra patogi kišenė skanėstams laikyti.<br /><br />Laikykite savo pūkuotą draugą šalia su mūsų kuprine, kuri tinka ir mažiems šunims. Nedidelė šoninė anga leidžia lengvai paglostyti augintinį ir nuraminti jį nerimo atveju.<br /><br />Gyvūnų nešiojimo kuprinė yra patvirtinta oro linijų ir idealiai tinka katėms bei mažiems ir vidutiniams šunims, sveriantiems iki 5,90 kg. Sulankstytos kuprinės matmenys yra 33 (ilgis) x 28 (plotis) x 42 (aukštis) cm, o išskleistos - 33 (ilgis) x 70 (plotis) x 42 (aukštis) cm. Prieš keliaudami pasitikslinkite savo oro linijų reikalavimus.</p>]]></description>
-      <price>28.90</price>
-      <old_price>40.90</old_price>
+      <price>46.90</price>
+      <old_price>60.90</old_price>
       <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/817/109/65/81710965/augintiniu-transportavimo-kuprine-e7b6d_reference.jpg]]></image>
@@ -117576,7 +117576,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500512098</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.18</weight>
       <attributes>
         <attribute title="CE ženklinimas">Taip</attribute>
@@ -117909,7 +117909,7 @@
       <description><![CDATA[<p>Gaminio medžiaga: silikonas + ABS</p><p>Gaminio dydis: 180*35mm</p><p>Produkto svoris: 56g</p><p>Greičiai: 9 greičiai</p><p>Funkcija: nuotolinis vibratorius, skirtas IOS / Andorid</p><p>Triukšmas: mažesnis nei 45 decibelai.</p><p> </p><p> </p><p>Išmanusis programų valdymas. Šį vibratorių galite valdyti patys arba savo mobiliąja programėle. Galite atsisiųsti valdymo programėlę per iOS arba Android sistemą, pakeisti vibracijos režimą per telefono nustatymus ir žaisti šiuo G taško vibratoriumi, tai patogu.</p><p> </p><p>Nešiojamas vibratorius. Nešiojamas dizainas leidžia gerai dėvėti apatinius, kitiems to nepastebėjus. Tylus dizainas leidžia jus lydėti bet kurioje pasaulio vietoje. Jis gali būti naudojamas apsipirkti, žiūrėti filmus ir valgyti. Programėlės valdymas 10 metrų atstumu, patirkite staigų ir netikėtą jaudulį bet kada ir bet kur ir mėgaukitės šiuo įdomiu nuotykiu!</p><p> </p><p>Stilingas dizainas. Šis sekso žaislas yra 100% atsparus vandeniui ir su juo galima žaisti duše ar kitose šlapiose vietose – todėl gerai valytis net po švariu vandeniu žaislų valikliu. Ir jis naudoja USB įkroviklį, kuris gali greitai įkrauti energiją pagal jūsų poreikius.</p><p> </p><p>USB įkrovimas, privati ​​pakuotė. USB įkrovimo dizainas, paprastas naudojimas. Privačią pakuotę, nepriklausomai nuo to, ar mūsų gaminį naudojate patys, ar dovanojate draugui, galite ją saugiai įsigyti.</p>]]></description>
       <price>26.49</price>
       <old_price>31.79</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/730/369/11/73036911/vibratorius-kegel-app-rozinis-a49b7_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/730/369/11/73036911/vibratorius-kegel-app-rozinis-fae2d-kaina_reference.jpg]]></image>
@@ -117918,7 +117918,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500553916</barcode>
-      <quantity>1</quantity>
+      <quantity>100</quantity>
       <weight>0.1</weight>
       <attributes>
         <attribute title="CE ženklinimas">Taip</attribute>
@@ -118018,7 +118018,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500553909</barcode>
-      <quantity>1</quantity>
+      <quantity>6</quantity>
       <weight>0.1</weight>
       <attributes>
         <attribute title="CE ženklinimas">Taip</attribute>
@@ -124398,7 +124398,7 @@
       <description><![CDATA[<p>Reguliuojamas greitis - Norėdami pakeisti greitį, tiesiog pasukite diską, kad rastumėte optimalų savo džiaugsmo parametrą.<br />Stiprus siurblys - keturi siurbtukai leidžia sekso mašinai tvirtai prisitvirtinti prie lygaus paviršiaus.<br />Tyli minkymo mašina - mažas triukšmas leidžia be baimės naudoti falloimitatorių.<br />VARTOJIMO PATARIMAI:<br />Atkreipkite dėmesį į higieną, prieš naudodami nusiplaukite visus reikmenis.<br />Reikia tepti, geriau naudoti prezervatyvą.<br />Pasirinkite lygų paviršių, kad padėtumėte savo mašiną. Dėl to siurblys taps saugesnis.<br />Išjunkite reguliavimo rankenėlę, atjunkite maitinimo kabelį, nuvalykite mašiną ir priedus, po naudojimo laikykite vėsioje ir vėjuotoje vietoje.</p>]]></description>
       <price>129.90</price>
       <old_price>144.90</old_price>
-      <delivery_text>20 d.d.</delivery_text>
+      <delivery_text>2 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/791/561/13/79156113/sekso-masina-su-sesiais-antgaliais-a97fe-pirkti_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/791/561/13/79156113/sekso-masina-su-sesiais-antgaliais-cf8ac-pigiau_reference.jpg]]></image>
@@ -124409,7 +124409,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500510247</barcode>
-      <quantity>100</quantity>
+      <quantity>1</quantity>
       <weight>3.34</weight>
       <attributes>
         <attribute title="Reikalingi elementai">Ne</attribute>
@@ -140378,8 +140378,8 @@
       </categories>
       <title><![CDATA[Muzikinis kūdikio barškutis Aipinqi AFF31]]></title>
       <description><![CDATA[<p>Puikus muzikinis žaislas. Kai vaikai paima ir traukia pakabinamą žaislą, jis pradeda groti švelnią muziką. Jis pritrauks jūsų kūdikio dėmesį, stimuliuos pojūčius, trumpins rankų raumenis ir gerins klausą. <br />Saugi medžiaga. Mūsų kūdikių žaislas pagamintas iš lankstaus ir patogaus audinio, netoksiškas ir draugiškas odai. Kruopštūs gaminio saugos bandymai užtikrina, kad jūsų vaikas galės saugiai paimti ar užkąsti žaislą. <br />Daugiafunkcinis. Įdomūs kūdikių vystymo žaislai turi ne tik įmontuotą muzikinę dėžutę, bet ir prie jų pritvirtintus lazdelinius žaisliukus, barškučius ir BB pypkę. Kūdikių mokymosi žaislai padės jūsų kūdikiui didinti smalsumą ir lavinti klausą. <br />Pakabinamas žaislas. Pakabinami žaisliukai turi C Clip pakabinamą žiedą, juos galite lengvai pritvirtinti prie automobilio kėdutės, vežimėlio, lovelės, kūdikių sporto salės ir žaidimų kilimėlių, kad kūdikiui būtų lengva pramogauti keliaujant, nesvarbu, kur jis bebūtų.</p>]]></description>
-      <price>17.90</price>
-      <old_price>21.48</old_price>
+      <price>25.90</price>
+      <old_price>35.08</old_price>
       <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/843/909/50/84390950/muzikinis-kudikio-barskutis-aipinqi-aff31-412e8_reference.jpg]]></image>
@@ -145472,7 +145472,7 @@
       </categories>
       <title><![CDATA[Automatinė šėrykla augintiniams]]></title>
       <description><![CDATA[<p>Optimalus pasirinkimas: jei jūsų katė sužinojo, kur laikote skanėstus ir maistą, su sauso maisto dozatoriumi jūsų mažasis vagišius niekada negalės pats valgyti kačių maisto. Šis automatinis maitintuvas yra visiškai programuojamas ir maistą išduoda pagal tvarkaraštį, todėl jūsų katės mityba bus subalansuota ir sveika. <br /><br />Skirtas dviem katėms: mūsų šėrykla yra dvigubos konstrukcijos su maisto pertvara, dviem dubenėliais ir nerūdijančio plieno stoveliais. Jis tuo pačiu metu leidžia maistą į abu dubenėlius, todėl sutaupysite laiko maistui ruošti ir skatinsite reguliarų šėrimo grafiką.<br /><br />Vienodos ir tikslios maisto porcijos: ši šėryklėlė automatiškai dozuoja vienodą maisto kiekį, kad abi katės gautų vienodas porcijas. Maitintuvo talpa - 6 litrai, o per dieną galima nustatyti iki 4 maitinimų, kai kiekvienam maitinimui galima nustatyti iki 40 porcijų (1 porcija yra 7,48 g).<br /><br />Išmaniosios funkcijos: Kačių šėrimo stotelė turi 10 sekundžių pranešimo įrašymo funkciją ir laikmatį, kad galėtumėte lengviau organizuoti reguliarų kačių draugų maitinimą. Taip pat yra atminties funkcija, kad neprarastumėte katės maitinimo grafiko, kai dingsta elektra.<br /><br />Saugus ir patikimas kačių šėrimo įrenginys: šis automatinis kačių ėdalo dozatorius yra apsaugotas nuo naminių gyvūnų: viršutinis dangtelis užsidaro, o ekranas užsirakina, kad jūsų augintiniai negautų maisto anksčiau nustatyto laiko. Be to, katėms skirtoje maitinimo priemonėje įrengta nuo užsikimšimo apsauganti sistema, užtikrinanti sklandų pašaro tiekimą.</p>]]></description>
-      <price>89.90</price>
+      <price>99.90</price>
       <old_price>122.39</old_price>
       <delivery_text>2 d.d.</delivery_text>
       <images>
