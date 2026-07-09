@@ -4842,7 +4842,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500551059</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.1</weight>
       <attributes>
         <attribute title="CE ženklinimas">Taip</attribute>
@@ -11901,13 +11901,13 @@
       <description><![CDATA[<p>Silikoninis burnos ąsotis su sintetinės odos dirželiais ir sagtimis bei kitais metaliniais apdarais.</p><p>Patvarios medžiagos žiedas.</p><p>Svoris 0,06600 g </p><p>Spalva: juoda </p><p>Medžiaga: silikonas ir poliuretanas. </p><p>Kūno reguliavimas nuo 38 cm iki 50 cm.</p><p>Burnos angos skersmuo 4 cm</p>]]></description>
       <price>11.90</price>
       <old_price>19.31</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/706/493/16/70649316/oralinio-dirzas-juodas-53e93_reference.jpg]]></image>
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500557846</barcode>
-      <quantity>1</quantity>
+      <quantity>100</quantity>
       <weight>0.07</weight>
       <attributes>
         <attribute title="Spalva">Juoda</attribute>
@@ -16482,7 +16482,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500544457</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.3</weight>
       <attributes>
         <attribute title="Spalva">Juoda</attribute>
@@ -27722,7 +27722,7 @@
       <description><![CDATA[<p>„WiFi“ maitintuvo versija: palaiko ryšį su 2,4 GHz ‚WiFi‘ tinklu. Naudodami „Android“ arba „iOS“ išmanųjį telefoną, galite programuoti ir valdyti savo augintinio šėrimą naudodami programėlę, nustatydami kiekvieno maitinimo tvarkaraštį iš bet kurios vietos ir bet kuriuo metu. Suplanuotas maitinimas tęsiamas net ir tada, kai „WiFi“ ryšys išjungtas, todėl nebeturėsite rūpesčių.<br /><br />Reversinis variklis, kad išvengtumėte užsikimšimo: jei ėdalas užstringa, variklis automatiškai pradeda važiuoti atbuline eiga, kad pašalintų užsikimšimą ir sumažintų užsikimšimo riziką. Maitintuvas suderinamas tik su 3-18 mm sausu, maišytu ir ore džiovintu pašaru. Sumaišykite mėgstamiausias savo augintinio pašarų formules, kad maistas būtų sotesnis.<br /><br />Lengvas nustatymas ir tikslus dozavimas: šėryklą galima užprogramuoti 6 porcijoms per dieną, kurių kiekvieną galima nustatyti nuo 1 iki 60 porcijų (maždaug 10 g vienai porcijai). Mokslinis dozavimo metodas, kuris pašalina perteklių, skatina sveikus jūsų augintinio mitybos įpročius. Hermetiškas dangtelis ir drėgmę sugeriantis maišelis išlaiko ėdalą šviežią.<br /><br />Nerūdijančio plieno dubenėliai: bakterijoms atsparūs dubenėliai apsaugo kates nuo spuogų ir kitų odos problemų. Paaukštinta konstrukcija sumažina mažų augintinių sąnarių ir stuburo apkrovą, o tai padeda sumažinti artrito riziką.<br /><br />Didelė talpa: rezervuaro talpa - 5 litrai, todėl vieną suaugusią katę galėsite maitinti iki 30 dienų, o dvi kates - 15 dienų. Jei išvykstate trumpam, jums nereikės nerimauti, kad jūsų augintinis liks alkanas. Galimybė perjungti viengubą ir dvigubą dubenėlį leidžia augintiniams, gyvenantiems dviejų kačių namuose, tolygiai dalytis maistu ir išvengti konfliktų.<br /><br />Patikimas maitinimas ir atminties funkcija: nuolatiniam maitinimui rekomenduojama naudoti USB laidą, nes baterijos veikia maždaug 2 mėnesius. Atsarginiam maitinimui yra trys D tipo baterijos. Atminties funkcija išsaugo šėrimo grafiko nustatymus nutrūkus elektros tiekimui, todėl atnaujinus elektros tiekimą nereikės iš naujo nustatinėti šėryklos - taip sutaupysite laiko ir pastangų.</p>]]></description>
       <price>140.68</price>
       <old_price>176.27</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/809/618/35/80961835/automatinis-serykla-augintiniams-su-app-valdymu-fe343_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/809/618/35/80961835/automatinis-serykla-augintiniams-su-app-valdymu-8b3f5-kaina_reference.jpg]]></image>
@@ -27741,7 +27741,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495673941</barcode>
-      <quantity>1</quantity>
+      <quantity>100</quantity>
       <weight>2.38</weight>
       <attributes>
         <attribute title="Tipas">Automatinės šėryklos katėms</attribute>
@@ -66593,7 +66593,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XXL</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500537008</barcode>
           <price>0.00</price>
         </variant>
@@ -107294,7 +107294,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495632085</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>3.0</weight>
       <attributes>
         <attribute title="Įpakavimas">Dėžė</attribute>
@@ -111039,7 +111039,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495668206</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.18</weight>
       <attributes>
         <attribute title="Tipas">Moteriškos kuprinės</attribute>
@@ -140573,7 +140573,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495632474</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>1.0</weight>
       <attributes>
         <attribute title="Elementų tipas">AA</attribute>
