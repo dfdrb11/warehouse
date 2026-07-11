@@ -3669,7 +3669,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500513620</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.2</weight>
       <attributes>
         <attribute title="CE ženklinimas">Taip</attribute>
@@ -13201,7 +13201,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500552650</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.75</weight>
       <attributes>
         <attribute title="Spalva">Ruda</attribute>
@@ -22809,7 +22809,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500552667</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.83</weight>
       <attributes>
         <attribute title="Spalva">Juoda</attribute>
@@ -29710,7 +29710,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500548554</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.75</weight>
       <attributes>
         <attribute title="Spalva">Ruda</attribute>
@@ -31806,7 +31806,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500548561</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.75</weight>
       <attributes>
         <attribute title="Spalva">Juoda</attribute>
@@ -46650,7 +46650,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410495675426</barcode>
           <price>0.00</price>
         </variant>
@@ -47444,14 +47444,14 @@
       <description><![CDATA[<p>Juoda spalva <br />Diržo plotis: plonas diržas <br />Medžiagos: dirbtinė oda, 100% poliuretanas.</p>]]></description>
       <price>19.90</price>
       <old_price>25.90</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/773/071/07/77307107/moteriski-pakinktai-5dd9b-internetu_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/773/071/07/77307107/moteriski-pakinktai-3ef96-kaina_reference.jpg]]></image>
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500539323</barcode>
-      <quantity>1</quantity>
+      <quantity>100</quantity>
       <weight>0.02</weight>
       <attributes>
         <attribute title="Spalva">Juoda</attribute>
@@ -47793,13 +47793,13 @@
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
           <barcode>5410500540206</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
           <barcode>5410500540190</barcode>
           <price>0.00</price>
         </variant>
@@ -59473,7 +59473,7 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>5</quantity>
+          <quantity>3</quantity>
           <barcode>5410500538302</barcode>
           <price>0.00</price>
         </variant>
@@ -64587,7 +64587,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500539965</barcode>
           <price>0.00</price>
         </variant>
@@ -70391,7 +70391,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500544464</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.35</weight>
       <attributes>
         <attribute title="Spalva">Juoda</attribute>
@@ -73164,7 +73164,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
           <barcode>5410500540596</barcode>
           <price>0.00</price>
         </variant>
@@ -96738,7 +96738,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495628743</barcode>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <weight>2.0</weight>
       <attributes>
         <attribute title="Antgalių kiekis">Nėra</attribute>
@@ -124853,7 +124853,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500520666</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.11</weight>
       <attributes>
         <attribute title="Reikalingi elementai">Ne</attribute>
@@ -127003,7 +127003,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500520680</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.205</weight>
       <attributes>
         <attribute title="Reikalingi elementai">Ne</attribute>
@@ -136121,7 +136121,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500520826</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.29</weight>
       <attributes>
         <attribute title="Reikalingi elementai">Ne</attribute>
@@ -136935,7 +136935,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500512944</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.36</weight>
       <attributes>
         <attribute title="Reikalingi elementai">Ne</attribute>
@@ -142872,7 +142872,7 @@
       </categories>
       <title><![CDATA[Odinė vyriška korėjietiško stiliaus kuprinė]]></title>
       <description><![CDATA[<p>Dydis: ilgis 30 cm * aukštis 47 cm * storis 17 cm Medžiaga: PU oda Svoris: 1kg</p>]]></description>
-      <price>39.42</price>
+      <price>51.42</price>
       <old_price>100.79</old_price>
       <delivery_text>20 d.d.</delivery_text>
       <images>
@@ -144233,7 +144233,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495670032</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.45</weight>
       <attributes>
         <attribute title="Tipas">Rankinės per petį</attribute>
@@ -146131,7 +146131,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495672777</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.72</weight>
       <attributes>
         <attribute title="Plotis (cm)">21</attribute>
