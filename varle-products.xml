@@ -3473,7 +3473,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500519912</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.21</weight>
       <attributes>
         <attribute title="CE ženklinimas">Taip</attribute>
@@ -66725,8 +66725,8 @@
       </categories>
       <title><![CDATA[Seksualus apatinio trikotažo rinkinys]]></title>
       <description><![CDATA[<p>Audinys: poliesteris<br />Juoda spalva<br />Norite aistringos, romantiškos ir seksualios nakties – šis stulbinantis apatinio trikotažo komplektas sukurs tinkamą nuotaiką nepamirštamai nakčiai ir pažadins visą jūsų partnerio aistrą!</p>]]></description>
-      <price>14.90</price>
-      <old_price>20.99</old_price>
+      <price>25.90</price>
+      <old_price>35.08</old_price>
       <delivery_text>2 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/775/491/77/77549177/seksualus-apatinio-trikotazo-rinkinys-dc40b-pirkti_reference.jpg]]></image>
@@ -140113,7 +140113,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495637714</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.58</weight>
       <attributes>
         <attribute title="Elementų tipas">AAA</attribute>
