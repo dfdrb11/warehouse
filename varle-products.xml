@@ -58698,31 +58698,31 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>100</quantity>
+          <quantity>0</quantity>
           <barcode>5410500559291</barcode>
           <price>0.80</price>
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>100</quantity>
+          <quantity>0</quantity>
           <barcode>5410500559284</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>100</quantity>
+          <quantity>0</quantity>
           <barcode>5410500559277</barcode>
           <price>10.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>100</quantity>
+          <quantity>0</quantity>
           <barcode>5410500559260</barcode>
           <price>10.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>XXL</title>
-          <quantity>100</quantity>
+          <quantity>0</quantity>
           <barcode>5410500559253</barcode>
           <price>10.00</price>
         </variant>
