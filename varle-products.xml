@@ -10413,7 +10413,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500500859</barcode>
-      <quantity>100</quantity>
+      <quantity>0</quantity>
       <weight>0.15</weight>
       <attributes>
         <attribute title="Spalva">Juoda</attribute>
@@ -15603,7 +15603,7 @@
       <description><![CDATA[<p>Diržai ir antrankiai naudojami asmeniui surišti ir pritvirtinti prie lovos. Diržais galima surišti kojas ir rankas. Gaminys yra reguliuojamo dydžio, kad tiktų bet kokio dydžio lovai. Komplekte yra 4 paminkštinti riešų ir kulkšnių antrankiai, 2 atskiri diržai, skirti tempimui ant lovos, kryžminis sekso diržas ir akių raištis jausmingiems sekso žaidimams. BDSM surišimo diržai bet kokio dydžio lovą gali paversti surišimo malonumų vieta. Medžiaga: nailonas.</p>]]></description>
       <price>21.90</price>
       <old_price>24.90</old_price>
-      <delivery_text>20 d.d.</delivery_text>
+      <delivery_text>2 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/754/506/16/75450616/bdsm-pririsimas-prie-lovos-106c4-internetu_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/754/506/16/75450616/bdsm-pririsimas-prie-lovos-0d5f3-pigiau_reference.jpg]]></image>
@@ -15612,7 +15612,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500544884</barcode>
-      <quantity>100</quantity>
+      <quantity>1</quantity>
       <weight>0.2</weight>
       <attributes>
         <attribute title="Spalva">Juoda</attribute>
@@ -15834,7 +15834,7 @@
       <description><![CDATA[<p>Medžiaga: oda + grandinėlė<br />Juoda spalva<br />Tarnavimo laikas: ilgas<br />Šis seksualus diržų rinkinys padarys jūsų išvaizdą seksualią ir jaudinantį, o jūsų partneris negalės jums atsispirti! Idealiai tinka BDSM žaidimams!</p>]]></description>
       <price>22.69</price>
       <old_price>27.23</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/777/092/88/77709288/seksualus-odiniai-nelaisves-dirzu-komplektai-2929a-kaina_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/777/092/88/77709288/seksualus-odiniai-nelaisves-dirzu-komplektai-06a95_reference.jpg]]></image>
@@ -15842,7 +15842,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500530863</barcode>
-      <quantity>1</quantity>
+      <quantity>100</quantity>
       <weight>0.3</weight>
       <attributes>
         <attribute title="Spalva">Juoda</attribute>
@@ -26308,7 +26308,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410495635116</barcode>
           <price>0.00</price>
         </variant>
@@ -33802,7 +33802,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495670896</barcode>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <weight>4.8</weight>
       <attributes>
         <attribute title="Tipas">Dušo sistema</attribute>
@@ -39820,7 +39820,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XXXL</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500534601</barcode>
           <price>0.00</price>
         </variant>
@@ -39970,7 +39970,7 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500538111</barcode>
           <price>0.00</price>
         </variant>
@@ -39982,13 +39982,13 @@
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>4</quantity>
+          <quantity>0</quantity>
           <barcode>5410500535271</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500535264</barcode>
           <price>0.00</price>
         </variant>
@@ -42630,7 +42630,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500542538</barcode>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <weight>0.2</weight>
       <attributes>
         <attribute title="Spalva">Juoda</attribute>
@@ -44062,7 +44062,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500544433</barcode>
-      <quantity>0</quantity>
+      <quantity>100</quantity>
       <weight>0.3</weight>
       <attributes>
         <attribute title="Spalva">Juoda</attribute>
@@ -45599,7 +45599,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500544105</barcode>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <weight>0.3</weight>
       <attributes>
         <attribute title="Spalva">Juoda</attribute>
@@ -46590,19 +46590,19 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500542224</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500540305</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500540299</barcode>
           <price>0.00</price>
         </variant>
@@ -47793,7 +47793,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500540206</barcode>
           <price>0.00</price>
         </variant>
@@ -47841,7 +47841,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
           <barcode>5410500532843</barcode>
           <price>0.00</price>
         </variant>
@@ -47865,7 +47865,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XXXL</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500532805</barcode>
           <price>0.00</price>
         </variant>
@@ -48379,7 +48379,7 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500537848</barcode>
           <price>0.00</price>
         </variant>
@@ -48879,7 +48879,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500533734</barcode>
           <price>0.00</price>
         </variant>
@@ -48897,7 +48897,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XXXL</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500533703</barcode>
           <price>0.00</price>
         </variant>
@@ -49317,7 +49317,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XXXL</title>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
           <barcode>5410500533505</barcode>
           <price>0.00</price>
         </variant>
@@ -49702,7 +49702,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XXXL</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500534557</barcode>
           <price>0.00</price>
         </variant>
@@ -49913,7 +49913,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500580905</barcode>
           <price>0.00</price>
         </variant>
@@ -51330,7 +51330,7 @@
       <description><![CDATA[<p>Medžiaga: poliesteris<br />Spalva: studentas<br />Palepinkite savo partnerį aistringu vaidmenų žaidimu šiame žaismingame apatinio trikotažo rinkinyje! Parodykite jam, koks esate išdykęs, seksualus ir drąsus, ir mėgaukitės karšta, nepakartojama naktimi!</p>]]></description>
       <price>24.39</price>
       <old_price>32.63</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/802/188/03/80218803/penkiu-daliu-apatinio-trikotazo-komplektas-naughty-schoolgirl-65139_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/802/188/03/80218803/penkiu-daliu-apatinio-trikotazo-komplektas-naughty-schoolgirl-26721-internetu_reference.jpg]]></image>
@@ -51341,19 +51341,19 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>1</quantity>
+          <quantity>100</quantity>
           <barcode>5410500576380</barcode>
           <price>2.80</price>
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>0</quantity>
+          <quantity>100</quantity>
           <barcode>5410500576373</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>1</quantity>
+          <quantity>100</quantity>
           <barcode>5410500576366</barcode>
           <price>0.30</price>
         </variant>
@@ -51909,7 +51909,7 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500542415</barcode>
           <price>0.00</price>
         </variant>
@@ -52287,19 +52287,19 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>0</quantity>
+          <quantity>3</quantity>
           <barcode>5410500537565</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
           <barcode>5410500532300</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>3</quantity>
+          <quantity>1</quantity>
           <barcode>5410500532294</barcode>
           <price>0.00</price>
         </variant>
@@ -56448,7 +56448,7 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
           <barcode>5410500506998</barcode>
           <price>7.56</price>
         </variant>
@@ -56525,7 +56525,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>1</quantity>
+          <quantity>100</quantity>
           <barcode>5410500535530</barcode>
           <price>0.00</price>
         </variant>
@@ -57039,7 +57039,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XXXL</title>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
           <barcode>5410500534250</barcode>
           <price>0.00</price>
         </variant>
@@ -57076,7 +57076,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500534342</barcode>
           <price>0.00</price>
         </variant>
@@ -57088,13 +57088,13 @@
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
           <barcode>5410500534328</barcode>
           <price>0.80</price>
         </variant>
         <variant group_title="Dydis">
           <title>XXL</title>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
           <barcode>5410500534311</barcode>
           <price>0.80</price>
         </variant>
@@ -59473,7 +59473,7 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500538302</barcode>
           <price>0.00</price>
         </variant>
@@ -59497,7 +59497,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XXL</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500536049</barcode>
           <price>0.00</price>
         </variant>
@@ -60809,25 +60809,25 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
           <barcode>5410500538210</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500535707</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
           <barcode>5410500535691</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
           <barcode>5410500535684</barcode>
           <price>0.00</price>
         </variant>
@@ -60869,13 +60869,13 @@
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
           <barcode>5410500535370</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
           <barcode>5410500535363</barcode>
           <price>0.00</price>
         </variant>
@@ -60936,13 +60936,13 @@
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
           <barcode>5410500548868</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500548851</barcode>
           <price>0.00</price>
         </variant>
@@ -61740,7 +61740,7 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500543986</barcode>
           <price>0.00</price>
         </variant>
@@ -64001,7 +64001,7 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500549520</barcode>
           <price>0.00</price>
         </variant>
@@ -64013,13 +64013,13 @@
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500548967</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>12</quantity>
+          <quantity>11</quantity>
           <barcode>5410500548950</barcode>
           <price>0.00</price>
         </variant>
@@ -64587,7 +64587,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
           <barcode>5410500539965</barcode>
           <price>0.00</price>
         </variant>
@@ -64986,13 +64986,13 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500537794</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500533345</barcode>
           <price>0.00</price>
         </variant>
@@ -65064,13 +65064,13 @@
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
           <barcode>5410500533222</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>XXL</title>
-          <quantity>5</quantity>
+          <quantity>3</quantity>
           <barcode>5410500533215</barcode>
           <price>0.00</price>
         </variant>
@@ -65164,19 +65164,19 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
           <barcode>5410500538029</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>9</quantity>
+          <quantity>8</quantity>
           <barcode>5410500534496</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500534489</barcode>
           <price>0.00</price>
         </variant>
@@ -65285,25 +65285,25 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500537732</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500532997</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>3</quantity>
+          <quantity>1</quantity>
           <barcode>5410500532980</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500532973</barcode>
           <price>0.00</price>
         </variant>
@@ -65315,7 +65315,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XXXL</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500532959</barcode>
           <price>0.00</price>
         </variant>
@@ -66528,7 +66528,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500532454</barcode>
           <price>0.00</price>
         </variant>
@@ -66575,7 +66575,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>3</quantity>
+          <quantity>1</quantity>
           <barcode>5410500537039</barcode>
           <price>0.00</price>
         </variant>
@@ -66593,7 +66593,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XXL</title>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
           <barcode>5410500537008</barcode>
           <price>0.00</price>
         </variant>
@@ -68070,37 +68070,37 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
           <barcode>5410500538128</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>7</quantity>
+          <quantity>6</quantity>
           <barcode>5410500535332</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500535325</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
           <barcode>5410500535318</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>XXL</title>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
           <barcode>5410500535301</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>XXXL</title>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
           <barcode>5410500535295</barcode>
           <price>0.00</price>
         </variant>
@@ -70957,7 +70957,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500539668</barcode>
           <price>0.00</price>
         </variant>
@@ -70969,7 +70969,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500539644</barcode>
           <price>0.00</price>
         </variant>
@@ -71011,19 +71011,19 @@
       <variants>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500542156</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
           <barcode>5410500540077</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
           <barcode>5410500540060</barcode>
           <price>0.00</price>
         </variant>
@@ -71124,7 +71124,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500540633</barcode>
           <price>0.00</price>
         </variant>
@@ -71550,7 +71550,7 @@
       <variants>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500542699</barcode>
           <price>0.00</price>
         </variant>
@@ -71691,13 +71691,13 @@
       <variants>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500542613</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500541111</barcode>
           <price>0.00</price>
         </variant>
@@ -71737,7 +71737,7 @@
       <variants>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500549131</barcode>
           <price>0.00</price>
         </variant>
@@ -71990,19 +71990,19 @@
       <variants>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500549148</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500549070</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
           <barcode>5410500549063</barcode>
           <price>0.00</price>
         </variant>
@@ -72046,7 +72046,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>7</quantity>
+          <quantity>6</quantity>
           <barcode>5410500540664</barcode>
           <price>0.00</price>
         </variant>
@@ -72963,7 +72963,7 @@
       <variants>
         <variant group_title="Dydis">
           <title>S/M</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500549124</barcode>
           <price>0.00</price>
         </variant>
@@ -73012,7 +73012,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
           <barcode>5410500540046</barcode>
           <price>0.00</price>
         </variant>
@@ -73043,7 +73043,7 @@
       <variants>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500542262</barcode>
           <price>0.00</price>
         </variant>
@@ -73061,7 +73061,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XXL</title>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
           <barcode>5410500540398</barcode>
           <price>0.00</price>
         </variant>
@@ -73164,7 +73164,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500540596</barcode>
           <price>0.00</price>
         </variant>
@@ -74245,7 +74245,7 @@
       <description><![CDATA[<p>Medžiaga: 80 % nailonas + 20 % elastanas</p>]]></description>
       <price>23.59</price>
       <old_price>33.48</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/797/992/08/79799208/seksualus-vyriski-marskineliai-5c0d1_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/797/992/08/79799208/seksualus-vyriski-marskineliai-8cfa1-kaina_reference.jpg]]></image>
@@ -74254,19 +74254,19 @@
       <variants>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>1</quantity>
+          <quantity>100</quantity>
           <barcode>5410500337325</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>0</quantity>
+          <quantity>100</quantity>
           <barcode>5410500337318</barcode>
           <price>4.31</price>
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>0</quantity>
+          <quantity>100</quantity>
           <barcode>5410500337301</barcode>
           <price>4.31</price>
         </variant>
@@ -75033,7 +75033,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XXL</title>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
           <barcode>5410500541555</barcode>
           <price>0.00</price>
         </variant>
@@ -75568,7 +75568,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XL</title>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <barcode>5410500541456</barcode>
           <price>0.00</price>
         </variant>
@@ -95365,7 +95365,7 @@
       <description><![CDATA[<div>Dizainas suteikia jam pranašumą. Šis įtaisas su keturiomis pagalvėlėmis ir penkiais vibraciniais mazgais, atliekančiais įvairias funkcijas, pasižymi didesnėmis galimybėmis ir aukšt kokybe, žadant veiksmingą  poveikį kūnui. Įvertinkite mūsų masažo naujoves, sukurtas naudojant moksliškai pagrįstus spindulius su raudona šviesa. Ilgainiui jis veiksmingai odos pažeidimus, plonas linijas ir pigmentacijos dėmes. Atkreipkite dėmesį, kad nuolatinis masažo naudojimas yra lemiamas veiksnys norint pasinaudoti šia nauda. EMS yra svarbi šio masažo funkcija. Tarp privalumų yra raumenų formavimasis, kraujotakos ir gerklės skausmo malšinimas. Pasinaudodami šia puikia technologija, atnaujinkite savo atsigavimo kelionę. Pajustumėte šilto kompreso ir cirkuliacinės fizioterapijos sąveiką mūsų masaže, kuris suteikia puikų masažo efektą, palengvinantį Jūsų kaklą. 15 +/- intensyvumo lygiai (pasirinktinai) Įkraunama (USB rinkinys)</div>]]></description>
       <price>45.90</price>
       <old_price>55.08</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/811/971/25/81197125/harmony-hills-ems-224b8_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/811/971/25/81197125/harmony-hills-ems-0eeda-kaina_reference.jpg]]></image>
@@ -95378,7 +95378,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495671572</barcode>
-      <quantity>1</quantity>
+      <quantity>100</quantity>
       <weight>0.443</weight>
       <attributes>
         <attribute title="Masažo lygiai">4</attribute>
@@ -109063,7 +109063,7 @@
       <description><![CDATA[<div>Saugūs ir veiksmingi. Ausies oda labai jautri ir reikalauja ypatingos priežiūros. Mūsų plovimo vandeniu įrankis kruopščiai plauna ausis, nepakenkdamas odai, pašalindamas sierą, purvą ir atliekas.<br />Venkite brangių ligoninės sąskaitų. Ausų valymo rinkiniu jūsų pinigai sutaupomi apsilankius pas daktara ir gali būti įvykdyti bet kuriuo jums patogiu laiku. Tiesiog pripildykite mūsų purkštuvą buitiniu druskos tirpalu arba peroksido tirpalu, kaip nurodyta naudojimo vadove.<br />Pažangus dizainas. Ausų sieros šalinimo rinkinį sudaro 30 vienkartinių minkštų ausų įdėklų, kuriuos galima pakeisti po vienkartinio naudojimo. Taip išvengiama užsikrėtimo įvairiais žmonėmis ir sistema tampa higieniškesnė.<br />Visų amžiaus grupių ausų valiklis. Ausies sieros šalinimo įrankis yra greitas ir veiksmingas įtaisas ausies sieros pertekliui pašalinti, kurį galima naudoti namuose. Ausų valymo prietaisas saugiai pašalina ausų sierą — puikų ausų plovimo rinkinį, idealiai tinkantį vaikų ausims valyti.</div>]]></description>
       <price>41.89</price>
       <old_price>50.27</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/817/455/85/81745585/sunuo-at130-fc82c_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/817/455/85/81745585/sunuo-at130-218fc-kaina_reference.jpg]]></image>
@@ -109074,7 +109074,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495636243</barcode>
-      <quantity>2</quantity>
+      <quantity>100</quantity>
       <weight>0.45</weight>
       <attributes>
         <attribute title="Elementų tipas">Nėra</attribute>
@@ -113064,7 +113064,7 @@
       <description><![CDATA[<div>Režimų rodymo ekranas: Sieninės muzikos bokso treniruoklyje įrengtas režimų rodymo ekranas, kuriame galima reguliuoti 9 skirtingus greičio režimus ir 9 skirtingus šviesos smūgio režimus. Muzikos bokseris gali savavališkai keisti smūgio tašką, treniruoti sportininko reakciją, didinti kūno judrumą ir mąstymą. Tikslas: didinti kūno lankstumą ir koordinavimą, gerinti reagavimo įgūdžius ir užtikrinti malonią kūno rengybą. Tobulinkite savo treniruotes naudodami idealų vaizdo ir garso efektų derinį. BLUETOOTH SPEAKER: Šis bokseris gali greitai prisijungti per Bluetooth, turėti aukštos kokybės garso stiprinimo efektą, pasirinkti mėgstamiausias dainas per treniruotes ir stimuliuoti aistrą ant bokso. Grimzkite į azartinius žaidimus per treniruotes. Šis muzikos bokseris tinka visų tipų žmonėms, kuriems reikia įveikti stresą ar sportuoti. Tai geriausias kompanionas atsipalaidavimui ir sportui pramogų tikslais. Jis gali būti veiksmingai naudojamas įvairioms kovos menų treniruotėms, įskaitant boksą, sanjdą, taekvondo ir vyną-šuną. Tai taip pat būtina lieknėjimo ir kūno rengybos priemonė. LENGVAS ĮRENGIMAS ir IŠARDYMAS: kad ir kur būtų šienas, jį galima įrengti bet kurioje vietoje, tiek patalpoje, tiek lauke, nedideli matmenys neužima vietos. Lygus paviršius yra ne tik lengvai valomas, bet ir praktiškas. Svarbiausia, ji veiksmingai apsaugo rankas nuo traumų bokso metu.</div>]]></description>
       <price>102.59</price>
       <old_price>123.11</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/811/974/35/81197435/muzikos-bokso-treniruoklis-dark-red-brand-4ee2b_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/811/974/35/81197435/muzikos-bokso-treniruoklis-dark-red-brand-53d92-kaina_reference.jpg]]></image>
@@ -113076,7 +113076,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495670957</barcode>
-      <quantity>2</quantity>
+      <quantity>100</quantity>
       <weight>2.5</weight>
       <attributes>
         <attribute title="Svarmenų svoris (kg)">2</attribute>
@@ -115294,7 +115294,7 @@
       <description><![CDATA[<ul><li><div>Idealiai tinka šunims, sveriantiems iki 15 kg, arba katėms, sveriančioms iki 18 kg.</div></li><li><div>Jame patogiu būdu laikomos mažos ir vidutinio dydžio katės bei maži šunys. šuniukai. </div></li><li><div>Puiki ventiliacija ir patogumas. Turi orui pralaidžius tinklinius langus iš 4 pusių, kurie naminiams gyvūnams suteikia pakankamai oro. </div></li><li><div>Ergonominis dizainas.</div></li><li><div>Išplėstiniai minkštieji diržai ir atlošas palaiko, padeda sumažinti apkrovą ir padidinti komfortą. </div></li><li><div>Pagamintas iš aukštos kokybės Oksfordo audinio, nepralaidus vandeniui, atsparus įbrėžimams ir nedirginantis, leidžia jūsų mylimajam kvėpuoti ir atsipalaiduoti.</div></li><li><div>Iš abiejų pusių kišenėse galima laikyti maisto produktus ir kai kuriuos reikiamus aksesuarus.</div></li></ul>]]></description>
       <price>49.99</price>
       <old_price>59.99</old_price>
-      <delivery_text>20 d.d.</delivery_text>
+      <delivery_text>2 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/817/458/35/81745835/gyvunu-transportavimo-krepsys-45ef1_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/817/458/35/81745835/gyvunu-transportavimo-krepsys-2672e-kaina_reference.jpg]]></image>
@@ -115306,7 +115306,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495635741</barcode>
-      <quantity>100</quantity>
+      <quantity>1</quantity>
       <weight>1.36</weight>
       <attributes>
         <attribute title="Tipas">Krepšiai</attribute>
@@ -140257,7 +140257,7 @@
       <description><![CDATA[<p>Šis edukacinis interaktyvus žaislas taps vaiko mėgstamiausiu žaislu nuo pat gimimo ir nepakeičiamu pagalbininku tėvams. Minkštos ausytės pagamintos iš maistinio silikono ir puikiai tinka laikotarpiui, kai dygsta pirmieji dantukai. Žaislo apačioje yra mirksinti lemputė. Taip pat yra 6 skirtingų melodijų, kurias galima perjungti naudodami centrinį mygtuką. Žaislo švelni šviesa padės jūsų mažyliui nusiraminti ir užmigti. Žaisliniai žaislai turi didžiulį poveikį vaiko harmoningam vystymuisi: emociniam, protiniam, lavina smulkiąją motoriką ir skatina savarankišką veiklą. Veikia su 2 AAA baterijomis. Žaislinio žaislo dydis 8 cm x 16 cm.</p>]]></description>
       <price>15.90</price>
       <old_price>25.08</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/836/996/20/83699620/interaktyvus-barskutis-kudikiams-ruiyingbao-45786_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/836/996/20/83699620/interaktyvus-barskutis-kudikiams-ruiyingbao-18253-kaina_reference.jpg]]></image>
@@ -141253,7 +141253,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410495632344</barcode>
-      <quantity>3</quantity>
+      <quantity>1</quantity>
       <weight>0.2</weight>
       <attributes>
         <attribute title="Elementų tipas">Ne</attribute>
