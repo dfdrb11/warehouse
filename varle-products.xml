@@ -2921,7 +2921,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500547755</barcode>
-      <quantity>5</quantity>
+      <quantity>2</quantity>
       <weight>0.01</weight>
       <attributes>
         <attribute title="CE ženklinimas">Taip</attribute>
@@ -3596,7 +3596,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500510926</barcode>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
       <weight>0.85</weight>
       <attributes>
         <attribute title="CE ženklinimas">Taip</attribute>
@@ -20243,7 +20243,7 @@
       <description><![CDATA[<p>Šis tirpumo diržas suprojektuotas taip, kad atitiktų komfortą. narvelis pagamintas iš dervos medžiagos, dažnai poliruotos, apvalios ir lygios, išsiskiriančios lengvumu, ištverme ir hipoalergija.<br />Labai prigludusi Europos ląstelė vyrams, turinti 4 dydžio spragtelėjusį žiedą. Unikalus narvo jungiklis turi būti saugus ir nekelti susirūpinimo.<br />Nepriklausomą naują 3D dizainą galima naudoti kaip galūnės žiedą, rutulinį žiedą, vėrinį ar žiedą ant galvutės, kad būtų išvengta ejakuliacijos.<br />Narvelis ergonomiškas, šiek tiek išgaubtas, kad geriau prilimpant prie kūno, skaistumo narvelis specialiai sukurtas jums! Skirtas patogiam dėvėjimui, paprastam naudojimui, puikiai tinkančiam tempimui visą dieną ir trumpalaikiams jausmams.<br />Dizainas ir techninės charakteristikos:<br />Biologinių dervų narvelis suteikia jums naują dizainą, kuris padės kasdien gyventi laimingiau ir saugiau.<br />Ergonominis dizainas, susijęs su didesne paslaptimi, patogiu įrengimu ir ilgalaikiu patogumu.<br />Medžiaga: 100% dervų<br />Spalva: juoda.<br />Žiedo dydis: 42 mm/45 mm/48 mm/52 mm<br />Viename rinkinyje yra 1 x langelis, 4 x žiedai, 1 x tamsi spyna.<br />Būkite atsargūs.<br />1. Būtinai nuvalykite preparatą prieš naudojimą ir po jo.<br />2. Rekomenduojama naudoti tepalinę alyvą.<br />3. Šis įrenginys skirtas tik asmeniniam naudojimui.</p>]]></description>
       <price>26.90</price>
       <old_price>30.23</old_price>
-      <delivery_text>20 d.d.</delivery_text>
+      <delivery_text>2 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/791/570/88/79157088/penio-narvas-ir-ziedu-rinkinys-179e2_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/791/570/88/79157088/penio-narvas-ir-ziedu-rinkinys-64759-kaina_reference.jpg]]></image>
@@ -20253,7 +20253,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500508442</barcode>
-      <quantity>100</quantity>
+      <quantity>1</quantity>
       <weight>0.19</weight>
       <attributes>
         <attribute title="Spalva">Juoda</attribute>
@@ -46490,7 +46490,7 @@
       <description><![CDATA[<p>Medžiaga: poliesteris<br />Spalva: juoda<br />Šis apatinio trikotažo komplektas yra toks moteriškas, lengvas ir subtilus, kad jūsų partneris tiesiog neatsispirs jūsų žavesiui ir patrauklumui! Ir jausitės labai savimi pasitikinti, seksuali ir gundanti!</p>]]></description>
       <price>25.89</price>
       <old_price>70.90</old_price>
-      <delivery_text>2 d.d.</delivery_text>
+      <delivery_text>20 d.d.</delivery_text>
       <images>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/785/464/54/78546454/triju-daliu-apatinio-trikotazo-komplektas-feminine-passion-6126d_reference.jpg]]></image>
         <image><![CDATA[https://lt2.pigugroup.eu/colours/785/464/54/78546454/triju-daliu-apatinio-trikotazo-komplektas-feminine-passion-9710f-kaina_reference.jpg]]></image>
@@ -46501,19 +46501,19 @@
       <variants>
         <variant group_title="Dydis">
           <title>S</title>
-          <quantity>1</quantity>
+          <quantity>100</quantity>
           <barcode>5410500517871</barcode>
           <price>0.00</price>
         </variant>
         <variant group_title="Dydis">
           <title>M</title>
-          <quantity>0</quantity>
+          <quantity>100</quantity>
           <barcode>5410500516225</barcode>
           <price>6.01</price>
         </variant>
         <variant group_title="Dydis">
           <title>L</title>
-          <quantity>0</quantity>
+          <quantity>100</quantity>
           <barcode>5410500516218</barcode>
           <price>6.01</price>
         </variant>
@@ -57100,7 +57100,7 @@
         </variant>
         <variant group_title="Dydis">
           <title>XXXL</title>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
           <barcode>5410500534304</barcode>
           <price>1.00</price>
         </variant>
@@ -77529,7 +77529,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500547311</barcode>
-      <quantity>11</quantity>
+      <quantity>10</quantity>
       <weight>0.1</weight>
       <attributes>
         <attribute title="Tipas">Prekės intymiai higienai</attribute>
@@ -134714,7 +134714,7 @@
       </images>
       <barcode_format>EAN</barcode_format>
       <barcode>5410500512456</barcode>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <weight>0.21</weight>
       <attributes>
         <attribute title="Reikalingi elementai">Ne</attribute>
